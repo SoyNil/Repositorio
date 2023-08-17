@@ -1,4 +1,5 @@
 package trabajo_2;
+//Import JOptionPane
 import javax.swing.JOptionPane;
 public class Trabajo_2 {
     public static void main(String[] args) {
